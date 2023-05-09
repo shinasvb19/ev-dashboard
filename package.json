@@ -133,7 +133,7 @@
     "@types/expect-puppeteer": "^5.0.1",
     "@types/file-saver": "^2.0.5",
     "@types/jest": "^28.1.6",
-    "@types/jest-environment-puppeteer": "^5.0.2",
+    "@types/jest-environment-puppeteer": "^5.0.3",
     "@types/jquery": "^3.5.13",
     "@types/jsonwebtoken": "^8.5.8",
     "@types/moment-duration-format": "^2.2.3",
