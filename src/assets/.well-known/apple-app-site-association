@@ -1,0 +1,27 @@
+{
+   "applinks":{
+      "apps":[],
+      "details":[
+         {
+            "appID":"SG7N28T3A2.com.e-Mobility",
+            "paths":["/auth/verify-email/*", "/auth/define-password/*"],
+            "components":[
+               {
+                  "/":"/auth/verify-email/*",
+                  "?":{
+                     "Email":"?*",
+                     "VerificationToken":"?*",
+                     "ResetToken":"*"
+                  }
+               },
+               {
+                  "/":"/auth/define-password/*",
+                  "?":{
+                     "hash":"?*"
+                  }
+               }
+            ]
+         }
+      ]
+   }
+}
